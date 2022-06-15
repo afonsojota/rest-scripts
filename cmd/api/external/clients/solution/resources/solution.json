@@ -1,0 +1,73 @@
+{
+  "id": 47041,
+  "title": "Incidencia ME - Delivered - (V)",
+  "title_pt": "",
+  "processes": [
+    478
+  ],
+  "is_med_process": false,
+  "details": null,
+  "final_step": true,
+  "has_image": false,
+  "status": "PUBLISHED",
+  "metric_id": "40047041",
+  "created_by": "anrodriguez",
+  "created_date": "2020-06-22T16:11:17.000-0400",
+  "versions": [
+    {
+      "id": 55955,
+      "solution_id": 47041,
+      "sites": [
+        "MCO",
+        "MLA",
+        "MLC",
+        "MLM",
+        "MLU"
+      ],
+      "contents": [
+        {
+          "id": 41199,
+          "version_id": 55955,
+          "channel": "DEFAULT",
+          "content": {
+            "buyer": "",
+            "seller": "",
+            "body": "<p><span style=\"font-weight: 400;\">Hola.</span></p>\n<p><span style=\"font-weight: 400;\">Te pedimos disculpas por la demora en responder.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Revisamos la operaci&oacute;n y vimos que el env&iacute;o ya fue entregado a tu comprador.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Desde la secci&oacute;n de &ldquo;Actividad&rdquo; en tu cuenta de Mercado Pago y haciendo clic sobre el cobro, podr&aacute;s ver cu&aacute;ndo tendr&aacute;s el dinero liquidado y disponible para usar.</span></p>\n<p><span style=\"font-weight: 400;\">&iexcl;Hasta pronto!</span></p>"
+          },
+          "checksum": "cf40aa75ada2e4b44c040b908202aa22",
+          "module_link": "/solutions/71c2f2bd-0c81-401f-92d9-f4aee25fa2e4.json",
+          "has_image": false
+        }
+      ],
+      "status": "PUBLISHED",
+      "created_by": "anrodriguez",
+      "created_date": "2020-06-22T16:11:17.000-0400"
+    },
+    {
+      "id": 55955,
+      "solution_id": 47041,
+      "sites": [
+        "MLB"
+      ],
+      "contents": [
+        {
+          "id": 41199,
+          "version_id": 55955,
+          "channel": "DEFAULT",
+          "content": {
+            "buyer": "",
+            "seller": "",
+            "body": "<p><span style=\"font-weight: 400;\">Hola.</span></p>\n<p><span style=\"font-weight: 400;\">Te pedimos disculpas por la demora en responder.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Revisamos la operaci&oacute;n y vimos que el env&iacute;o ya fue entregado a tu comprador.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Desde la secci&oacute;n de &ldquo;Actividad&rdquo; en tu cuenta de Mercado Pago y haciendo clic sobre el cobro, podr&aacute;s ver cu&aacute;ndo tendr&aacute;s el dinero liquidado y disponible para usar.</span></p>\n<p><span style=\"font-weight: 400;\">&iexcl;Hasta pronto!</span></p>"
+          },
+          "checksum": "cf40aa75ada2e4b44c040b908202aa22",
+          "module_link": "/solutions/71c2f2bd-0c81-401f-92d9-f4aee25fa2e4.json",
+          "has_image": false
+        }
+      ],
+      "status": "PUBLISHED",
+      "created_by": "anrodriguez",
+      "created_date": "2020-06-22T16:11:17.000-0400"
+    }
+  ],
+  "trx_variables": []
+}
